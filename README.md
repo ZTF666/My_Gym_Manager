@@ -84,7 +84,7 @@
 
 <div align="center">
 
-**👨‍💻 My Gym Manager 👨‍💻** released under the [MIT](LICENSE) License.
+**👨‍💻 My Gym Manager 👨‍💻** released under the [GNU General Public License v3.0 ](LICENSE) License.
 <br><br>
 
 <strong><p>Made with 🖤 by NABIL ZTF .EA | 2021 </p> </strong>
