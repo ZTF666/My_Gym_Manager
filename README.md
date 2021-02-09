@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/stocking-pictures.appspot.com/o/gym-manager-git.gif?alt=media&token=6bea7827-2a5e-4d1a-9a19-bdc12055fc6f" alt="Demo Gif" width="" />
+<img src="/readmegif/gym-manager-git.gif" alt="Demo Gif" width="" />
 </div>
 
 </div>
@@ -55,46 +55,9 @@
 </div>
 ## Project Structure
 
-📦assets
-┣ 📂admins
-┃ ┗ 📜vue.png
-┗ 📂members
-┃ ┣ 📜gg.png
-┃ ┗ 📜vuelogo.png
-
-📦backend
-┣ 📂classes
-┃ ┣ 📜AdminClass.php
-┃ ┣ 📜connexion.php
-┃ ┣ 📜DAO.php
-┃ ┣ 📜MemberClass.php
-┃ ┗ 📜PaymentClass.php
-┗ 📂logic
-┃ ┣ 📜AddMemberHandler.php
-┃ ┣ 📜archiveProfileHandler.php
-┃ ┣ 📜authentication.php
-┃ ┣ 📜editProfileHandler.php
-┃ ┣ 📜editProfileMediator.php
-┃ ┣ 📜logout.php
-┃ ┣ 📜makePaymentHandler.php
-┃ ┣ 📜makePaymentMediator.php
-┃ ┣ 📜memberProfileMediator.php
-┃ ┗ 📜unarchiveProfileHandler.php
-
-📦frontend
-┣ 📦pages
-┃ ┣ 📜addmember.php
-┃ ┣ 📜Addpayment.php
-┃ ┣ 📜dashboard.php
-┃ ┣ 📜editmember.php
-┃ ┣ 📜InactiveMembersProfiles.php
-┃ ┣ 📜Login.php
-┃ ┣ 📜MemberProfile.php
-┃ ┣ 📜memberslist.php
-┃ ┗ 📜membersprofiles.php
-
-📦database
-┗ 📜my-gym-database.sql
+<div align="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/stocking-pictures.appspot.com/o/struct.png?alt=media&token=433eeb2e-1116-4f2e-8f2c-07f9004d3c77"  />
+</div>
 
 ## Notice
 
