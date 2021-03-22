@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![](https://vistr.dev/badge?repo=ZTF666.My_Gym_Manager)
+
 <p><h5>My Gym Manager , is a web application that simplifies the life of a gym owner/manager<h5> <p>
 <p><h5>It's simple in its design and features , nothing complicated nor fancy .</h5></p>
 <p><h1>Pure PHP OOP , no framework used. </h1></p>
@@ -82,7 +84,7 @@
 
 <div align="center">
 
-**👨‍💻 My Gym Manager 👨‍💻** released under the [MIT](LICENSE) License.
+**👨‍💻 My Gym Manager 👨‍💻** released under the [GNU General Public License v3.0 ](LICENSE) License.
 <br><br>
 
 <strong><p>Made with 🖤 by NABIL ZTF .EA | 2021 </p> </strong>
