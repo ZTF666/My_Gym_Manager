@@ -121,6 +121,11 @@ if(!empty($_SESSION['admin'])) {
                   <h6 class="card-category"><?php echo $Member->fname; echo " " ; echo $Member->lname; ?></h6>
                   <h4 class="card-title"><?php echo $Member->jdate;?></h4>
                   <h4 class="card-title"><?php echo $Member->phone;?></h4>
+                  <form action="../../backend/logic/memberProfileMediator.php" method="POST">
+                  <input type="text" name="cnie_hidden" value="<?php echo $Member->cnie_member;?>" hidden>
+                  <button type="submit"  class="btn btn-warning btn-round">View Profile</button>
+                  </form>
+
                   <form action="../../backend/logic/makePaymentMediator.php" method="POST">
                   <input type="text" name="cnie_hidden" value="<?php echo $Member->cnie_member;?>" hidden>
                   <button type="submit"  class="btn btn-primary btn-round">Add Payment</button>
